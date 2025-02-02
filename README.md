@@ -17,8 +17,9 @@ Groq AI API for chatbot functionality
 Installation
 1 Clone the repository
 
-git clone httpsgithubcomyour-repotravel-buddy-dashboardgit
+git clone https://github.com/your-repo/travel-buddy-dashboard.git
 cd travel-buddy-dashboard
+
 
 2 Install the required dependencies
    pip install streamlit sqlite3
