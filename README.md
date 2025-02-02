@@ -19,8 +19,10 @@ Installation
 
 git clone httpsgithubcomyour-repotravel-buddy-dashboardgit
 cd travel-buddy-dashboard
+
 2 Install the required dependencies
    pip install streamlit sqlite3
+
 3 Run the application
    streamlit run apppy
 
